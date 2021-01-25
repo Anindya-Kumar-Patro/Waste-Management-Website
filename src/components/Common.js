@@ -11,6 +11,7 @@ const Common = (props) => {
                     <h1>{props.wastename}</h1>
                     <p>{props.wastedescription}</p>
                     <h5>{props.subsub}</h5>
+                    <br/>
                     <NavLink to="/waste-management">
                         <button className="btn btn-primary">Back to Waste Management</button>
                     </NavLink>

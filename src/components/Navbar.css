@@ -1,0 +1,24 @@
+.signin-styling{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+    margin-right: 7px;
+}
+
+.signin-styling:hover{
+    background-color: #4CAF50;
+    color: white;
+    border: 2px solid black
+}
+
+.signup-styling{
+    background-color: white; 
+    color: black; 
+    border: 2px solid  rgb(219, 109, 5);
+}
+
+.signup-styling:hover{
+    background-color: rgb(219, 109, 5);
+    color: white;
+    border: 2px solid black
+}
