@@ -12,7 +12,7 @@ const About = () => {
         <>
            <img src={welcome} alt="Welcome" className="imgwelcome"/>
            <AboutusCommon/>
-           <NavLink to="/contact">
+           <NavLink to="/contact-us">
            <img src={know} alt="Welcome" className="imgwelcome1"/>
            </NavLink>
            <AboutUscommon2/>
